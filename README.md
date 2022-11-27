@@ -1,3 +1,9 @@
+
+#  Rocky Linux 基础设施
+
+forked from https://github.com/rocky-linux/devtools
+
+
 A quick helper for getting a Rocky package maintainer build development
 configuration setup.
 
